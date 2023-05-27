@@ -1,0 +1,54 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+.idea/
+local.properties
+*.iml
+
+# Android Studio navigation files
+.navigation/
+
+# Proguard files
+proguard/
+proguard-rules.pro
+
+# Log files
+*.log
+
+# macOS specific files
+.DS_Store
+
+# Windows thumbnail files
+Thumbs.db
+
+# External native build folder (ndk-build)
+.externalNativeBuild
+
+# NDK object files
+obj/
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Firebase generated files
+google-services.json
+
+# Bazel files
+.bazel
+
+# Custom ignore rules
+# Add your own custom rules here, such as additional build directories or files
